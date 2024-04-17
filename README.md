@@ -16,4 +16,4 @@
 
 # ScreenShot
 
-![alt text](https://raw.githubusercontent.com/mooncodezz/virtual-7-segment-LCD-in-c-/main/screenshot.png)
+![alt text](https://raw.githubusercontent.com/naruesorn-n-krabkhuntod/lcd-in-c/main/screenshot.png)
